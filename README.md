@@ -8,20 +8,6 @@ The **Time Management and Task Prioritization System** is designed to help users
 - **Time Tracking**: Log the start and end times for each task, providing accurate records of time spent.
 - **Progress Review**: Review task status and time spent to gain valuable insights into progress and time management.
 
-## Project Structure
-
-```markdown
-/src                   # Source code
-  ├── /com.project.controller  # Servlets
-  ├── /com.project.model       # Data models
-  ├── /com.project.dao         # DAO classes
-  ├── /com.project.service      # Business logic
-  └── /com.project.util        # Utility classes
-/docs                  # Documentation
-/tests                 # Unit tests
-README.md              # Project documentation
-```
-
 ## Database Schema
 The database consists of the following key tables:
 - **User**: Stores user information.
@@ -47,6 +33,6 @@ The database consists of the following key tables:
 ## Acknowledgements
 - [MySQL](https://www.mysql.com/) for the database management system.
 - [Apache Tomcat](http://tomcat.apache.org/) for the web server.
-- [Bootstrap](https://getbootstrap.com/) for front-end styling.
+- Tailwind for front-end styling.
 
 ### By Team - 9
